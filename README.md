@@ -22,7 +22,7 @@
 Developer of programs, websites, bots (telegram/discord), and more. Proficient in C++, C#, PHP, Java, Python.
 
 <p style="text-align: left;">
-  🌍 Location: Ukraine <img src="🇺🇦" alt="Ukraine Flag" />
+  🌍 Location: Ukraine <img src="[🇺🇦](https://emojiterra.com/de/flagge-ukraine/#:~:text=Hauptstadt%20der%20Ukraine.-,%F0%9F%87%BA%F0%9F%87%A6,-Unicode%20CLDR%20Emoji)" alt="Ukraine Flag" />
 </p>
 
 ###
