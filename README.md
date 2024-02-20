@@ -22,7 +22,7 @@
 Developer of programs, websites, bots (telegram/discord), and more. Proficient in C++, C#, PHP, Java, Python.
 
 <p style="text-align: left;">
-  🌍 Location: Ukraine <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/flag-ukraine_1f1fa-1f1e6.png" alt="Ukraine Flag" />
+  🌍 Location: Ukraine <img src="🇺🇦" alt="Ukraine Flag" />
 </p>
 
 ###
