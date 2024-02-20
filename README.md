@@ -21,9 +21,7 @@
 
 Developer of programs, websites, bots (telegram/discord), and more. Proficient in C++, C#, PHP, Java, Python.
 
-<p style="text-align: left;">
-  🌍 Location: Ukraine <img src="[🇺🇦](https://emojiterra.com/de/flagge-ukraine/#:~:text=Hauptstadt%20der%20Ukraine.-,%F0%9F%87%BA%F0%9F%87%A6,-Unicode%20CLDR%20Emoji)" alt="Ukraine Flag" />
-</p>
+🌍 Location: Ukraine ![Ukraine Flag](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/flag-ukraine_1f1fa-1f1e6.png)
 
 ###
 
@@ -56,5 +54,5 @@ Developer of programs, websites, bots (telegram/discord), and more. Proficient i
 </div>
 
 <div align="center">
-  <a href="https://example.com">Website</a> | <a href="https://t.me/examplebot">Telegram Bot</a> | <a href="https://discord.gg/example">Discord</a>
+  <a href="https://mrghtchannel.github.io/Website-MrghtChannel/">Website</a> | <a href="https://t.me/MrghtChannel_Bot">Telegram Bot</a> | <a href="https://discord.gg/tzxWUqp2mN">Discord</a>
 </div>
