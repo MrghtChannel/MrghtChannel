@@ -19,7 +19,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-Developer of programs, websites, bots (telegram/discord), and more. Proficient in C++, C#, PHP, Java, Python.
+Developer of programs, websites, bots (telegram/discord), and more. Proficient in C++, C#, PHP, Java, Python,HTML,JavaScript.
 
 ###
 
