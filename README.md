@@ -19,7 +19,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-Developer of programs, websites, bots (telegram/discord), and more. Proficient in C++, C#, PHP, Java, Python,HTML,JavaScript.
+I am a software developer with experience in creating websites and bots for Telegram and Discord. I have experience working with PHP, Java, Python, HTML, JavaScript, and TypeScript. I also possess skills in working with various frameworks and libraries that ensure efficient and rapid project implementation.
 
 ###
 
