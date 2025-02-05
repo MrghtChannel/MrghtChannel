@@ -52,5 +52,5 @@ I am a software developer with experience in creating websites and bots for Tele
 </div>
 
 <div align="center">
-  <a href="https://mrghtchannel.github.io/Website-MrghtChannel/">Website</a> | <a href="https://t.me/MrghtChannel_Bot">Telegram Bot</a> | <a href="https://discord.gg/tzxWUqp2mN">Discord</a>
+  <a href="https://mrghtchannel.vercel.app/">Website</a> | <a href="https://t.me/MrghtChannel_Bot">Telegram Bot</a> | <a href="https://discord.gg/tzxWUqp2mN">Discord</a>
 </div>
